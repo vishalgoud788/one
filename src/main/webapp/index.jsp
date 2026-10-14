@@ -1287,7 +1287,7 @@
                 <div class="newsletter-wrap">
                     <div class="text">
                         <h3 id="news-title">Stay in the Loop</h3>
-                        <p>Get exclusive offers, early access & new arrivals</p>
+                        <p>Get exclusive , early access & new arrivals</p>
                     </div>
                     <form id="newsletterForm" onsubmit="return false;">
                         <input type="email" id="newsletterEmail" placeholder="Enter your email" aria-label="Email" required />
